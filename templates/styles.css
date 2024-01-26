@@ -1,27 +1,27 @@
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f0f0f0;
+    background-color: #4d8c57;
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100vh;
-    margin: 0;
+    height: 1000vh;
+    margin: 10;
 }
 
 .container {
     text-align: center;
-    background-color: #fff;
-    padding: 20px;
+    background-color: #f3ef09;
+    padding: 100px;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(255, 170, 51, 0.1);
 }
 
 h1 {
-    color: #3498db;
+    color: #3ffc06;
 }
 
 p {
-    font-size: 18px;
+    font-size: 24px;
 }
 
 button {
@@ -29,9 +29,9 @@ button {
     padding: 10px;
     font-size: 16px;
     cursor: pointer;
-    background-color: #3498db;
-    color: #fff;
-    border: none;
+    background-color: hsl(305, 93%, 49%);
+    color: #3d0af5;
+    border: 10px;
     border-radius: 5px;
     outline: none;
 }
