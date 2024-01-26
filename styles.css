@@ -16,7 +16,16 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+h1 {
+    color: #3498db;
+}
+
+p {
+    font-size: 18px;
+}
+
 button {
+    margin-top: 10px;
     padding: 10px;
     font-size: 16px;
     cursor: pointer;
